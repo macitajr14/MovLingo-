@@ -1,0 +1,7 @@
+{
+  "name": "MovLingo",
+  "description": "An AI-powered language learning application that generates lessons and challenges, inspired by Duolingo. Users can select a language and learn step-by-step with interactive, image-based questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
